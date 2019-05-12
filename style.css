@@ -1,0 +1,30 @@
+body {
+  width: 1920;
+}
+
+header {
+  height: 100px;
+  background-color: #707070;
+  opacity: 0.8;
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+}
+
+.top {
+  height: 980px;
+  background-image: ;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.top h1 {
+  font-size: 36px;
+  font-weight: bold;
+}
+
+.top p {
+  
+}
